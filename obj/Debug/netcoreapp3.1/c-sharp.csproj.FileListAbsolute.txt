@@ -1,0 +1,13 @@
+/Users/raulmiralles/Documents/Projects/c-sharp/obj/Debug/netcoreapp3.1/c-sharp.AssemblyInfoInputs.cache
+/Users/raulmiralles/Documents/Projects/c-sharp/obj/Debug/netcoreapp3.1/c-sharp.AssemblyInfo.cs
+/Users/raulmiralles/Documents/Projects/c-sharp/obj/Debug/netcoreapp3.1/c-sharp.csproj.CoreCompileInputs.cache
+/Users/raulmiralles/Documents/Projects/c-sharp/bin/Debug/netcoreapp3.1/c-sharp.deps.json
+/Users/raulmiralles/Documents/Projects/c-sharp/bin/Debug/netcoreapp3.1/c-sharp.runtimeconfig.json
+/Users/raulmiralles/Documents/Projects/c-sharp/bin/Debug/netcoreapp3.1/c-sharp.runtimeconfig.dev.json
+/Users/raulmiralles/Documents/Projects/c-sharp/bin/Debug/netcoreapp3.1/c-sharp.dll
+/Users/raulmiralles/Documents/Projects/c-sharp/bin/Debug/netcoreapp3.1/c-sharp.pdb
+/Users/raulmiralles/Documents/Projects/c-sharp/obj/Debug/netcoreapp3.1/c-sharp.dll
+/Users/raulmiralles/Documents/Projects/c-sharp/obj/Debug/netcoreapp3.1/c-sharp.pdb
+/Users/raulmiralles/Documents/Projects/c-sharp/obj/Debug/netcoreapp3.1/c-sharp.genruntimeconfig.cache
+/Users/raulmiralles/Documents/Projects/c-sharp/obj/Debug/netcoreapp3.1/c-sharp.csproj.AssemblyReference.cache
+/Users/raulmiralles/Documents/Projects/c-sharp/obj/Debug/netcoreapp3.1/c-sharp.GeneratedMSBuildEditorConfig.editorconfig
